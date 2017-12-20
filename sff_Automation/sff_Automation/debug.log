@@ -1,0 +1,7 @@
+[0404/184024.688:ERROR:file_io_win.cc(163)] CreateFile C:\Users\coeus\AppData\Local\Temp\scoped_dir7808_20449\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0418/181235.231:ERROR:process_info.cc(625)] range at 0x318327e400000000, size 0x1a4 fully unreadable
+[0418/181235.231:ERROR:process_info.cc(625)] range at 0x3183280400000000, size 0x1a4 fully unreadable
+[0418/181235.232:ERROR:process_info.cc(625)] range at 0x0, size 0x1a4 fully unreadable
+[0502/120130.053:ERROR:file_io_win.cc(163)] CreateFile C:\Users\coeus\AppData\Local\Temp\scoped_dir9192_5049\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0511/130000.423:ERROR:file_io_win.cc(163)] CreateFile C:\Users\coeus\AppData\Local\Temp\scoped_dir4304_17549\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0511/131103.747:ERROR:file_io_win.cc(163)] CreateFile C:\Users\coeus\AppData\Local\Temp\scoped_dir6620_5349\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
